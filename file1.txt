@@ -1,5 +1,1 @@
-hello
-this is a file1
-
-
-adding extra details
+clearing all data
